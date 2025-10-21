@@ -1,1 +1,3 @@
 # MyFundMeContractExample
+
+MyFundMe.sol , MyPriceConverter.sol and MyFundMe.ts were used to test if my contract works as expected ...
